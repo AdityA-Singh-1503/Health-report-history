@@ -1,4 +1,4 @@
-# HEALTH REPORT HISTORY
+# HEALTH CALCULATOR INDEX
 A Python command-line interface (CLI) application for calculating core health metrics-BMI, BMR, and TDEE and tracking progress over time using data visualization.
 
 <h2>METRIC CALCULATION:</h2>
