@@ -55,8 +55,14 @@ You need to have python 3.x installed on you computer and also libraries like
 2) csv, sys and os: Which are standard libraries and are included with python
 
 <h2>OUTPUT</h2>
-The data which is inputed is represented as:\
+The data which is inputed is represented as:
 <img width="1160" height="598" alt="image" src="https://github.com/user-attachments/assets/2b946de8-29c9-43f3-a777-c73b7dac69ca" />
+
+<h2>GRAPHS</h2>
+The graphs are presented as:
+<img width="1032" height="837" alt="Screenshot 2025-11-24 235728" src="https://github.com/user-attachments/assets/d65daad4-df65-4f43-a816-43dbaf4f1b0e" />
+<img width="1184" height="835" alt="Screenshot 2025-11-24 235925" src="https://github.com/user-attachments/assets/226f99cb-b678-43fd-8821-61b2173b9a23" />
+
 
 
 
