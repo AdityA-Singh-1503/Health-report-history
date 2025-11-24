@@ -11,7 +11,7 @@ Calculate three essential health metrics body mass index (BMI), basal matabolic 
    
    Classification: The classify_bmi function uses standard health ranges to categorize the result.
 
-   &#8226; < 18.5$: underweight
+   &#8226; < 18.5: underweight
    
    &#8226; 18.5-24.9: normal
 
